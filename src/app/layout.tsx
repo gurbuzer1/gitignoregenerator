@@ -16,6 +16,12 @@ export const metadata: Metadata = {
       "Generate perfect .gitignore files for any project. 30+ templates for languages, frameworks, and IDEs.",
     type: "website",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "GitIgnore Generator — Create .gitignore Files Instantly",
+    description:
+      "Generate perfect .gitignore files for any project. 30+ templates for languages, frameworks, and IDEs.",
+  },
 };
 
 export default function RootLayout({
